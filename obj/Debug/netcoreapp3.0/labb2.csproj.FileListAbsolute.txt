@@ -1,0 +1,11 @@
+/Users/cawehpassereh/Documents/csharp/labb2/labb2/obj/Debug/netcoreapp3.0/labb2.csprojAssemblyReference.cache
+/Users/cawehpassereh/Documents/csharp/labb2/labb2/obj/Debug/netcoreapp3.0/labb2.AssemblyInfoInputs.cache
+/Users/cawehpassereh/Documents/csharp/labb2/labb2/obj/Debug/netcoreapp3.0/labb2.AssemblyInfo.cs
+/Users/cawehpassereh/Documents/csharp/labb2/labb2/bin/Debug/netcoreapp3.0/labb2
+/Users/cawehpassereh/Documents/csharp/labb2/labb2/bin/Debug/netcoreapp3.0/labb2.deps.json
+/Users/cawehpassereh/Documents/csharp/labb2/labb2/bin/Debug/netcoreapp3.0/labb2.runtimeconfig.json
+/Users/cawehpassereh/Documents/csharp/labb2/labb2/bin/Debug/netcoreapp3.0/labb2.runtimeconfig.dev.json
+/Users/cawehpassereh/Documents/csharp/labb2/labb2/bin/Debug/netcoreapp3.0/labb2.dll
+/Users/cawehpassereh/Documents/csharp/labb2/labb2/bin/Debug/netcoreapp3.0/labb2.pdb
+/Users/cawehpassereh/Documents/csharp/labb2/labb2/obj/Debug/netcoreapp3.0/labb2.dll
+/Users/cawehpassereh/Documents/csharp/labb2/labb2/obj/Debug/netcoreapp3.0/labb2.pdb
